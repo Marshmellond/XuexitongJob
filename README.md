@@ -1,6 +1,11 @@
 <div align="center"><img src="https://s2.loli.net/2023/05/09/mHMyNBOV9u71gb4.png"></div>
 <div align="center"><h1>超星学习通每日作业提醒</h1><h3>定时自动发送至邮箱，靠别忘记作业烦恼</h3></div>
 <hr />
+<h1>作用</h1>
+<ul>
+  <li>解放时间，提高效率</li>
+  <li>支持未完成的作业，考试，任务提醒</li>
+</ul>
 <h1>效果图</h1>
 
 ![cda48e89-e9ad-4dcc-a2e9-9fa566c3a075.png](https://s2.loli.net/2023/05/09/8dAiaeKnPvtHsfg.png)

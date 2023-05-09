@@ -15,7 +15,7 @@
 <h1>开始使用</h1>
 下载Xuexitong.py，配置以下信息
 <ul>
-  <li>全局邮箱email</li>
+  <li>邮箱email</li>
   <li>邮箱服务器地址</li>
   <li>邮箱用户名</li>
   <li>邮箱授权码</li>

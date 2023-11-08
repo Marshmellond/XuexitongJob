@@ -1,5 +1,5 @@
-<div align="center"><img src="https://s2.loli.net/2023/05/09/mHMyNBOV9u71gb4.png"></div>
-<div align="center"><h1>超星学习通每日作业提醒</h1><h3>定时自动发送至邮箱，靠别忘记作业烦恼</h3></div>
+<div align="center"><img src="https://s2.loli.net/2023/11/08/yhqKHotF4Rk3276.jpg"></div>
+<div align="center"><h1>图片噪声生成与滤波</h1><h3>image-noise-generation-and-filtering</h3></div>
 <hr />
 <h1>作用</h1>
 <ul>
